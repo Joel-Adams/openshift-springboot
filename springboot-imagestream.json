@@ -17,7 +17,7 @@
                 },
             "from": {
               "kind": "DockerImage",
-              "name": "docker.io/joeladams/springboot-sample-app:latest"
+              "name": "joeladams/springboot-sample-app:latest"
             }
             }
         ]
